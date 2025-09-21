@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+requests
+pandas
+rapidfuzz
+textdistance
+python-multipart
+jinja2
