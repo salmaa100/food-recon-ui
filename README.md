@@ -41,8 +41,7 @@ Run the app:
 uvicorn app:app --reload
 Open http://127.0.0.1:8000 in your browser.
 
-```
-## Repository Structure
+Repository Structure
 
 food-recon-ui/
 │── app.py               # Main FastAPI app
@@ -53,7 +52,7 @@ food-recon-ui/
 │── sample.csv           # Example test dataset
 └── /docs
     └── screenshots/     # Project screenshots
-
+```
 ## 📊 Example Screenshots
 Homepage
 
